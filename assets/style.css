@@ -1,0 +1,13 @@
+body {
+  width: 40%;
+  margin: auto;
+  border: 2px;
+  border-style: double;
+  border-color: black;
+  padding: 10px;
+  text-align: left;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fff), color-stop(#0b860b), to(#303030)) no-repeat center center fixed;
+  background: linear-gradient(#fff, #0b860b, #303030) no-repeat center center fixed;
+  background-size: cover;
+}
+/*# sourceMappingURL=style.css.map */
